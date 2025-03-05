@@ -83,8 +83,8 @@ p span{
 
 .user-image{
   width: 80%;
-  border-radius: 10px;
-  /* box-shadow: 0 40px 40px -20px var(--grayish-blue); */
+  border-radius: 5px;
+  box-shadow: 0 40px 50px -30px hsl(240, 38%, 20%, 0.5);
 }
 
 .slider{
