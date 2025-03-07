@@ -127,9 +127,6 @@ p span{
     background-size: 100% 100%;
     padding-top: 1.7rem;
   }
-  .user-image{
-    width: 75%;
-  }
 
   h2{
     position: absolute;
@@ -140,7 +137,7 @@ p span{
     transform: translateY(-50%);
     font-weight: 400;
     /* width: 18rem; */
-    width: 135%;
+    width: 140%;
     padding-top: 1.5rem;
     background-position: top left 20%;
     background-size: 17%;
